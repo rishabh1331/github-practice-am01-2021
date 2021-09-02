@@ -66,3 +66,4 @@
 |38| Vera Meanti | 9 | verameanti | <https://github.com/verameanti/my_website> | <https://vera-meanti-website.netlify.app/> |2021-09-02|
 |39| Hanyu Wang | 7 | nullboi | <https://github.com/nullboi/my_website.git> | <https://hanyu-wang-website.netlify.app/> |2021-09-02|
 |40|Stephen Zhu | 9 | Stephenzhu99 | <https://github.com/Stephenzhu99/my_website> | <https://stephen-zhu-portfolio.netlify.app/> | 2021-09-02|
+|50|Rishabh Kaushik|9|rishabh1331|https://github.com/rishabh1331/mywebsite | https://rishabhportfolio101.netlify.app/ | 2021-09-02|
